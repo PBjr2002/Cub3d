@@ -30,10 +30,8 @@ This project focused on:
 ---
 
 ## Demonstration
-<div align="center">
   
-  ![Gameplay Demo](.gif/Cub.gif)
-</div>
+![Gameplay Demo](.gif/Cub.gif)
 
 <!-- 
 🎥 Add a gameplay GIF or video preview here later. 
