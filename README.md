@@ -31,6 +31,8 @@ This project focused on:
 
 ## Demonstration
 
+![Gameplay Demo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHQwbXlxemZ0MWhlYXlib3ltN2FhMndra3kzYmk5b3B1YjE5cnhjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/msijWwQrbIUfVeUdGm/giphy.gif)
+
 <!-- 
 🎥 Add a gameplay GIF or video preview here later. 
 You can use a screen recording tool (like OBS or Peek), convert it to GIF or upload the video directly.
