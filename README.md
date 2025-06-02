@@ -30,8 +30,10 @@ This project focused on:
 ---
 
 ## Demonstration
-
-![Gameplay Demo](.gif/cub5.gif)
+<div align="center">
+  
+  ![Gameplay Demo](.gif/cub5.gif)
+</div>
 
 <!-- 
 🎥 Add a gameplay GIF or video preview here later. 
