@@ -32,7 +32,7 @@ This project focused on:
 ## Demonstration
 <div align="center">
   
-  ![Gameplay Demo](.gif/cub5.gif)
+  ![Gameplay Demo](.gif/Cub.gif)
 </div>
 
 <!-- 
